@@ -2,8 +2,6 @@
 
 CryptoCademy is a crypto education website to simulate investing in crypto using fake money, before entering real crypto market.
 
-# Live Link
-https://reverent-nobel-c51bec.netlify.app/
 
 # How It Works
 
